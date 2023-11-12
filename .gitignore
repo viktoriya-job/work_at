@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.csproj
+/Lesson1/obj
+/Lesson1/bin/Debug/net7.0
+/Lesson1/.vs
