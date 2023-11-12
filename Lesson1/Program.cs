@@ -6,7 +6,8 @@ namespace Lesson1{
       static void Main() {
          Console.Write("Введите свое имя: ");
          string user_name = Console.ReadLine();
-         Console.WriteLine("Hello, " + user_name);
+         Console.WriteLine("Hello, my dier " + user_name);
+         Console.ReadKey();
       }
    }
 
